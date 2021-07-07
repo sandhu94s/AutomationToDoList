@@ -1,5 +1,9 @@
 # AutomationToDoList
-
+To run this file you need to unzip this folder - 
+click into AutomationToDoList - Main
+Unzip the SeleniumTestToDo folder
+Double Click the .sln file / right click open with MS Visual Studio
+Run tests
 
 <h1>Test Cases -</h1> 
  <h2><br><b> Input Field</b></h2>
